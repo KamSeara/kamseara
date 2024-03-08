@@ -1,4 +1,8 @@
 # Kamilly Seara
+
+## ⭐ About me 
+_Hey there! I am a person completely passionate about programming. I'm a beginner in the area and I'm in progress!_
+
 ## 🔗 Connect with me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-87CEFA?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/+5575988104198)
 [![Gmail](https://img.shields.io/badge/Gmail-87CEFA?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamiseara14@gmail.com)
@@ -6,9 +10,6 @@
 [![Discord](https://img.shields.io/badge/Discord-87CEFA?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.com/channels/@_seara./)
 [![linkedin](https://img.shields.io/badge/linkedin-87CEFA?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamillysearasantos/)
 [![Instagram](https://img.shields.io/badge/instagram-87CEFA?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_kamseara/)
-
-## ⭐ About me 
-_Hey there! I am a person completely passionate about programming. I'm a beginner in the area and I'm in progress!_
 
 ## 💻 Hard Skills
 ![HTML5](https://img.shields.io/badge/HTML5-87CEFA?style=for-the-badge&logo=html5&logoColor=fff)
