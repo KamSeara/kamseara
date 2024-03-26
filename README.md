@@ -27,6 +27,7 @@ _Hey there! I am a person completely passionate about programming. I'm a beginne
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-87CEFA?style=for-the-badge&logo=postgresql)
 ![Azure](https://img.shields.io/badge/Azure-87CEFA?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=fff&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 ![AWS](https://img.shields.io/badge/AWS-87CEFA.svg?style=for-the-badge&logo=amazon-aws&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-87CEFA?style=for-the-badge&logo=linux&logoColor=fff)
 
 ## 🛠 Tools
 ![Windows](https://img.shields.io/badge/Windows-87CEFA?style=for-the-badge&logo=windows&logoColor=fff)
