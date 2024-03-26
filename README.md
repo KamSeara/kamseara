@@ -19,10 +19,10 @@ _Hey there! I am a person completely passionate about programming. I'm a beginne
 ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-87CEFA?style=for-the-badge&logo=git&logoColor=fff)
 
-## 📚 Studying
+## 📚 Studying 
 ![React](https://img.shields.io/badge/React-87CEFA?style=for-the-badge&logo=react&logoColor=fff)
-![Django](https://img.shields.io/badge/django-87CEFA.svg?style=for-the-badge&logo=django&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-87CEFA?style=for-the-badge&logo=typescript&logoColor=fff)
+![Django](https://img.shields.io/badge/django-87CEFA.svg?style=for-the-badge&logo=django&logoColor=fff)
 ![Flask](https://img.shields.io/badge/flask-87CEFA.svg?style=for-the-badge&logo=flask&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-87CEFA?style=for-the-badge&logo=postgresql)
 ![Azure](https://img.shields.io/badge/Azure-87CEFA?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=fff&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
