@@ -12,10 +12,10 @@ _Hey there! I am a person completely passionate about programming. I'm a beginne
 [![Instagram](https://img.shields.io/badge/instagram-87CEFA?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/_kamseara/)
 
 ## 💻 Hard Skills
+![Python](https://img.shields.io/badge/python-87CEFA?style=for-the-badge&logo=python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-87CEFA?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-87CEFA?style=for-the-badge&logo=javascript&logoColor=fff)
-![Python](https://img.shields.io/badge/python-87CEFA?style=for-the-badge&logo=python&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-87CEFA?style=for-the-badge&logo=git&logoColor=fff)
 
@@ -23,11 +23,6 @@ _Hey there! I am a person completely passionate about programming. I'm a beginne
 ![React](https://img.shields.io/badge/React-87CEFA?style=for-the-badge&logo=react&logoColor=fff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-87CEFA?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Django](https://img.shields.io/badge/django-87CEFA.svg?style=for-the-badge&logo=django&logoColor=fff)
-![Flask](https://img.shields.io/badge/flask-87CEFA.svg?style=for-the-badge&logo=flask&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-87CEFA?style=for-the-badge&logo=postgresql)
-![Azure](https://img.shields.io/badge/Azure-87CEFA?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=fff&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
-![AWS](https://img.shields.io/badge/AWS-87CEFA.svg?style=for-the-badge&logo=amazon-aws&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-87CEFA?style=for-the-badge&logo=linux&logoColor=fff)
 
 ## 🛠 Tools
 ![Windows](https://img.shields.io/badge/Windows-87CEFA?style=for-the-badge&logo=windows&logoColor=fff)
