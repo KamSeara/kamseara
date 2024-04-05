@@ -1,6 +1,5 @@
 # Kamilly Seara
-
-## Hey There! 👋🏻
+_Hey There!_ 👋🏻
 
 ## 🔗 Connect with me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-87CEFA?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/+5575988104198)
