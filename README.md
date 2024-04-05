@@ -1,7 +1,6 @@
 # Kamilly Seara
 
-## ⭐ About me 
-_Hey there! I'm a student passionate about technology! This started with my first contact with programming in technical high school, where I took my first steps in coding. Since then, I have dedicated myself a lot to improving my skills and knowledge in the various areas of Software Development. So, I'm really excited to apply my theoretical knowledge to real-world projects and continue learning from experienced professionals._
+## Hey There! 👋🏻
 
 ## 🔗 Connect with me
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-87CEFA?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/+5575988104198)
