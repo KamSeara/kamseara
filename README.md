@@ -13,13 +13,10 @@ _Hey There!_ 👋🏻
 ![Python](https://img.shields.io/badge/python-87CEFA?style=for-the-badge&logo=python&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-87CEFA?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-87CEFA?style=for-the-badge&logo=css3&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-87CEFA?style=for-the-badge&logo=javascript&logoColor=fff)
 ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-87CEFA?style=for-the-badge&logo=git&logoColor=fff)
 
 ## 📚 Studying 
-![React](https://img.shields.io/badge/React-87CEFA?style=for-the-badge&logo=react&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/TypeScript-87CEFA?style=for-the-badge&logo=typescript&logoColor=fff)
 ![Django](https://img.shields.io/badge/django-87CEFA.svg?style=for-the-badge&logo=django&logoColor=fff)
 
 ## 🛠 Tools
