@@ -16,9 +16,6 @@ _Hey There!_ 👋🏻
 ![MySQL](https://img.shields.io/badge/MySQL-87CEFA?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Git](https://img.shields.io/badge/GIT-87CEFA?style=for-the-badge&logo=git&logoColor=fff)
 
-## 📚 Studying 
-![Django](https://img.shields.io/badge/django-87CEFA.svg?style=for-the-badge&logo=django&logoColor=fff)
-
 ## 🛠 Tools
 ![Windows](https://img.shields.io/badge/Windows-87CEFA?style=for-the-badge&logo=windows&logoColor=fff)
 ![Vscode](https://img.shields.io/badge/Vscode-87CEFA?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
